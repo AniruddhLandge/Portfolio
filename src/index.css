@@ -402,7 +402,7 @@ b{
 
 .projectBox{
   width: 350px;
-  border: 3px solid #431f47;
+  border: 3px solid  #f831d0;
   border-radius: 5px;
   text-align: center;
   padding: 15px;
@@ -432,7 +432,7 @@ b{
   width: 40%;
   margin: 25px 3% 0;
   border-radius: 5px;
-  background-color: #431f47;
+  background-color:  #f831d0;
   color: #E7E7E7;
   height: 30px;
   cursor:pointer;
