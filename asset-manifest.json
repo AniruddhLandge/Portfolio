@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.c45b1546.css",
+    "main.js": "/Portfolio/static/js/main.7e15f097.js",
+    "static/media/home.png": "/Portfolio/static/media/home.5f55e4561f685ba6d966.png",
+    "static/media/Avatar.png": "/Portfolio/static/media/Avatar.fa312ccf8f85946c64d0.png",
+    "static/media/Aniruddha Landge resume.pdf": "/Portfolio/static/media/Aniruddha Landge resume.c516483f55fa1d43f0d4.pdf",
+    "static/media/WebsiteImage.png": "/Portfolio/static/media/WebsiteImage.4c1e7e6e5e907006e599.png",
+    "static/media/weather.webp": "/Portfolio/static/media/weather.aac3553de2bc7c2b07d4.webp",
+    "index.html": "/Portfolio/index.html",
+    "main.c45b1546.css.map": "/Portfolio/static/css/main.c45b1546.css.map",
+    "main.7e15f097.js.map": "/Portfolio/static/js/main.7e15f097.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c45b1546.css",
+    "static/js/main.7e15f097.js"
+  ]
+}
